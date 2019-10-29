@@ -2,6 +2,7 @@
 Lectures and Resources for Machine Learning, Deep Learning, Artificial Intelligence
 
 Lecture Notes  
+
 | Topic | Description | Link | Tag |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | Deep Learning UC Berkeley STAT-157 2019 | Complete Overview of Deep Learning    Has Python and AWS code tutorials    Includes Traditional Machine Learning topics, CNN, LSTM, Transformers, and Optimizations  | [Youtube Video] (https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)    [Lecture Notes] (http://courses.d2l.ai/berkeley-stat-157/index.html) | Traditional ML, CNN, NLP, LSTM, Python |
