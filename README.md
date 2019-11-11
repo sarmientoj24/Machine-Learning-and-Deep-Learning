@@ -14,12 +14,15 @@ Anime Large Scale Dataset: https://safebooru.org
 
 Art  
 General Art Datasets: https://artuk.org  
-Art Data: https://bam-dataset.org/
+Art Data: https://bam-dataset.org/  
 
-# Scrapers
+# Helper Modules
+Scraper  
 Google Images: https://github.com/ianholing/image_dataset_creator_for_ML  
 Google Images: https://github.com/hardikvasa/google-images-download/
 
+Classifier  
+Music Emotion Classifier: //github.com/mathildebuenerd/music-emotion-classifier
 
 # Lecture Notes  
 
