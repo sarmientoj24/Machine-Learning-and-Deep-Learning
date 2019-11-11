@@ -3,12 +3,12 @@ Lectures and Resources for Machine Learning, Deep Learning, Artificial Intellige
 
 # Papers  
 Generative Adversarial Networks  
-Illustration 2 Vec: https://github.com/rezoo/illustration2vec/blob/master/papers/illustration2vec-main.pdf  
+Illustration 2 Vec: https://github.com/rezoo/illustration2vec/blob/master/papers/illustration2vec-main.pdf    
 Towards the Automatic Anime Characters Creationwith Generative Adversarial Networks: https://arxiv.org/pdf/1708.05509.pdf  
 
 # Datasets  
 Anime  
-Danbooru2018: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset: https://www.gwern.net/Danbooru2018
+Danbooru2018: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset: https://www.gwern.net/Danbooru2018  
 Anime Datasets: https://drive.google.com/file/d/1jdJXkQIWVGOeb0XJIXE3YuZQeiEPd8rM/view  
 Anime Large Scale Dataset: https://safebooru.org  
 
