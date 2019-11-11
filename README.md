@@ -19,10 +19,13 @@ Art Data: https://bam-dataset.org/
 # Helper Modules
 Scraper  
 Google Images: https://github.com/ianholing/image_dataset_creator_for_ML  
-Google Images: https://github.com/hardikvasa/google-images-download/
+Google Images: https://github.com/hardikvasa/google-images-download/  
+Web Screenshot: https://pypi.org/project/webscreenshot/
 
 Classifier  
 Music Emotion Classifier: //github.com/mathildebuenerd/music-emotion-classifier
+
+
 
 # Lecture Notes  
 
